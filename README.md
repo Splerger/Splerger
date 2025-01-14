@@ -6,6 +6,3 @@ You wont see very much activity here like pretty much most of my repos are priva
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=splerger)
 
-<p align="center">
-  <img src="https://count.getloli.com/get/@Splerger?theme=gelbooru" />
-</p>
