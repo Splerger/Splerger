@@ -2,7 +2,6 @@ coding is a fun hobby that I have i don't know how I started I just did
 
 You wont see very much activity here like pretty much most of my repos are private
 
-![Splerger's GitHub stats](https://github-readme-stats.vercel.app/api?username=Splerger)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=splerger&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=splerger)
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=splerger&show_icons=true&theme=material-palenight)
